@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(0, 255, 21);
+        background-image:linear-gradient(red,yellow,red);
+}
+
+div {
+
+    text-decoration:none;
+}
+img{
+    height:200px;
+    width:200px;
+}
